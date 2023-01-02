@@ -1,0 +1,15 @@
+names:
+- baeghyang-gwa
+- beigeulsaendeuwichi
+- bossam
+- bogsung-a
+- bokk-eummyeon
+- bokk-eumbab
+- korean_style_pancake
+- bibimbap
+- ppang
+- sagwapai
+nc: 10
+test: /home2/channelbiome/DataHub/yolov5/data/food/test/images
+train: wandb-artifact://foodDetector/train
+val: wandb-artifact://foodDetector/val
