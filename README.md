@@ -72,15 +72,15 @@ SDG(Stochastic Gradient Descent) - default optimizer
 #### Hyperparamereter
 epoch = 100 (53 early stopped)\
 batch-size = 24 \
-leaning rate ![learning rate](D:\Development\1.Python\Food_Detector\data\images\lr01.png)
+leaning rate ![learning rate](.\data\images\lr01.png)
  
 ### Evaluation metric
 #### - 수행 계획서의 성능 목표 mAP@0.5 80.0%를 상회한 mAP@0.5 86.5%를 달성. 
 mAP@0.5
-![map50](D:\Development\1.Python\Food_Detector\data\images\mAP50.png)
+![map50](.\data\images\mAP50.png)
 precision
-![precision](D:\Development\1.Python\Food_Detector\data\images\precision.png)
+![precision](.\data\images\precision.png)
 recall
-![recall](D:\Development\1.Python\Food_Detector\data\images\recall.png)
+![recall](.\data\images\recall.png)
 ## License
 [GPL-3.0 Lisence](https://github.com/ultralytics/yolov5/blob/master/LICENSE)
