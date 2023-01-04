@@ -72,7 +72,7 @@ SDG(Stochastic Gradient Descent) - default optimizer
 #### Hyperparamereter
 epoch = 100 (53 early stopped)\
 batch-size = 24 \
-leaning rate ![learning rate](.\data\images\lr01.png)
+leaning rate ![learning rate](https://github.com/channel-healthcare/Food_Detector/blob/main/data/images/lr01.png)
  
 ### Evaluation metric
 #### - 수행 계획서의 성능 목표 mAP@0.5 80.0%를 상회한 mAP@0.5 86.5%를 달성. 
