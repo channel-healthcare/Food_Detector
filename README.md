@@ -61,15 +61,15 @@ Total image count = 537,209\
 train : valid : test = 8 : 1 : 1 = 429,687 : 53,718 : 53,804
 
 ### Training 요소들
-####Loss function
+#### Loss function
 YOLOv5는 3가지 손실함수의 조합으로 되어 있다.\
 - Classes loss(BCE loss) \
 - Objectness loss(BCE loss) \
 - Location loss(CIoU loss)\
 ![Loss Function](https://camo.githubusercontent.com/af2d80e8094c28221f1d2b7bdf11e231c5927102c3323dd2c572cb2561c51aeb/68747470733a2f2f6c617465782e636f6465636f67732e636f6d2f7376672e696d6167653f4c6f73733d2535436c616d6264615f314c5f253742636c732537442b2535436c616d6264615f324c5f2537426f626a2537442b2535436c616d6264615f334c5f2537426c6f63253744) \
-####Optimizer
+#### Optimizer
 SDG(Stochastic Gradient Descent) - default optimizer
-####Hyperparamereter
+#### Hyperparamereter
 epoch = 100 (53 early stopped)\
 batch-size = 24 \
 leaning rate ![learning rate](D:\Development\1.Python\Food_Detector\data\images\lr01.png)
