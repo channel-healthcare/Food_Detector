@@ -78,10 +78,10 @@ leaning rate
 ### Evaluation metric
 #### - 수행 계획서의 성능 목표 mAP@0.5 80.0%를 상회한 mAP@0.5 86.5%를 달성. 
 mAP@0.5
-![map50](.\data\images\mAP50.png)
+![map50](./data/images/mAP50.png)
 precision
-![precision](.\data\images\precision.png)
+![precision](./data/images/precision.png)
 recall
-![recall](.\data\images\recall.png)
+![recall](./data/images/recall.png)
 ## License
 [GPL-3.0 Lisence](https://github.com/ultralytics/yolov5/blob/master/LICENSE)
